@@ -1,0 +1,27 @@
+{
+  "name": "marcuslinde.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/marcuslinde/marcuslinde.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/marcuslinde/marcuslinde.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcuslinde/marcuslinde.github.io.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "lint": "eslint src/js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.29.0",
+    "nodemon": "^3.1.10"
+  }
+}
